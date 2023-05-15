@@ -53,9 +53,10 @@ button
     padding: 30px;
     font: 10 1.2rem "Lucida Sans";
     border: none;
-    color: white;
+    color: rgb(245, 245, 245);
     cursor: pointer;
     transition: background-color 0.5s;
+    background-color: pink;
 }
 
 button:hover
